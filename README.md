@@ -1,3 +1,3 @@
-# Setting up a Raspberry Pi as an access point in a standalone network (NAT)
+# Read Me
 
-Visit the [Wiki](../../wiki) for full instructions
+__Visit the [Wiki](../../wiki) for full instructions__
